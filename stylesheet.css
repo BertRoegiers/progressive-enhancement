@@ -20,12 +20,11 @@ body {
   background-color: #C3D2E0;
   width:90%;
   margin:auto;
-  background-image: url(https://cdp.azureedge.net/products/USA/YA/2018/MC/SPORT/XSR900/49/RAPID_RED/2000000002.jpg);
+/*  background-image: url(https://cdp.azureedge.net/products/USA/YA/2018/MC/SPORT/XSR900/49/RAPID_RED/2000000002.jpg) */;
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: cover;
 }
-
 
 div {
   width: 50%;
@@ -34,4 +33,33 @@ div {
   color: darkgrey;
   border-left: 3px solid black;
   padding: 30px;
+}
+div {
+  font-style: italic;
+}
+.villagers {
+  font-style: italic;
+  border-left: 3px solid yellow;
+  }
+.farmer {
+  font-style: italic;
+  border-left: 3px solid red;
+}
+header > * {
+    background-color: yellow;
+}
+.good {
+    text-transform: capitalize;
+    color: green;
+}
+
+.bad {
+    text-transform: capitalize;
+    color: red;
+}
+tr:nth-child(even){
+  background: #CCC
+}
+tr:nth-child(odd) {
+  background: #FFF
 }
