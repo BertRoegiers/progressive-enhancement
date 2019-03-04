@@ -71,16 +71,26 @@ tr:nth-child(odd) {
     background-repeat: no-repeat;
     background-size: 15px;
     padding-left: 50px;
-  }
-  .seconditem {
+    }
+.seconditem {
     background-image: url(https://github.com/becodeorg/GNT-Yu-1.10/raw/master/1.The-Fields/4.HTML-CSS/1.HTML-CSS-Basics/Images/mal.png);
     background-repeat: no-repeat;
     background-size: 15px;
     padding-left: 50px;
     }
-    .thirditem {
-      background-image: url(https://github.com/becodeorg/GNT-Yu-1.10/raw/master/1.The-Fields/4.HTML-CSS/1.HTML-CSS-Basics/Images/chat.png);
-      background-repeat: no-repeat;
-      background-size: 15px;
-      padding-left: 50px;
+.thirditem {
+    background-image: url(https://github.com/becodeorg/GNT-Yu-1.10/raw/master/1.The-Fields/4.HTML-CSS/1.HTML-CSS-Basics/Images/chat.png);
+    background-repeat: no-repeat;
+    background-size: 15px;
+    padding-left: 50px;
     }
+.notification {
+    background-color: white;
+    padding: 25px;
+    border: 3px solid black;
+    width: 350px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+
+}
