@@ -63,3 +63,24 @@ tr:nth-child(even){
 tr:nth-child(odd) {
   background: #FFF
 }
+.paragraph1 {
+  font-weight: bold;
+}
+.firstitem {
+    background-image: url(https://github.com/becodeorg/GNT-Yu-1.10/raw/master/1.The-Fields/4.HTML-CSS/1.HTML-CSS-Basics/Images/bien.png);
+    background-repeat: no-repeat;
+    background-size: 15px;
+    padding-left: 50px;
+  }
+  .seconditem {
+    background-image: url(https://github.com/becodeorg/GNT-Yu-1.10/raw/master/1.The-Fields/4.HTML-CSS/1.HTML-CSS-Basics/Images/mal.png);
+    background-repeat: no-repeat;
+    background-size: 15px;
+    padding-left: 50px;
+    }
+    .thirditem {
+      background-image: url(https://github.com/becodeorg/GNT-Yu-1.10/raw/master/1.The-Fields/4.HTML-CSS/1.HTML-CSS-Basics/Images/chat.png);
+      background-repeat: no-repeat;
+      background-size: 15px;
+      padding-left: 50px;
+    }
