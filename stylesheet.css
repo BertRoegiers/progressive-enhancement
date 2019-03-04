@@ -20,7 +20,13 @@ body {
   background-color: #C3D2E0;
   width:90%;
   margin:auto;
+  background-image: url(https://cdp.azureedge.net/products/USA/YA/2018/MC/SPORT/XSR900/49/RAPID_RED/2000000002.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: cover;
 }
+
+
 div {
   width: 50%;
   margin: auto;
